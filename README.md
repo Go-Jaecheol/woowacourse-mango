@@ -6,7 +6,8 @@
 |:-----:|:-----:|:---:|:---:|:---:|:---:|
 |자동차 경주 - 단위 테스트|`2023-02-07` ~ `2023-02-13`|[java-racingcar](https://github.com/woowacourse/java-racingcar/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-racingcar/pull/520)|[PR 2](https://github.com/woowacourse/java-racingcar/pull/634)
 |사다리 타기 - TDD|`2023-02-14` ~ `2023-02-27`|[java-ladder](https://github.com/woowacourse/java-ladder/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-ladder/pull/129)|[PR 2](https://github.com/woowacourse/java-ladder/pull/246)
-|블랙잭 - Clean Code|`2023-02-28` ~ `2023-03-13`|[java-blackjack](https://github.com/woowacourse/java-blackjack/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-blackjack/pull/433)||
+|블랙잭 - Clean Code|`2023-02-28` ~ `2023-03-13`|[java-blackjack](https://github.com/woowacourse/java-blackjack/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-blackjack/pull/433)|[PR 2](https://github.com/woowacourse/java-blackjack/pull/580)|
+|체스 - OOP, DB|`2023-03-14` ~ `2023-03-27`|[java-chess](https://github.com/woowacourse/java-chess/tree/go-jaecheol)|||
 
 ---
 
