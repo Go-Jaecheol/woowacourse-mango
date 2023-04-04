@@ -9,6 +9,11 @@
 |블랙잭 - Clean Code|`2023-02-28` ~ `2023-03-13`|[java-blackjack](https://github.com/woowacourse/java-blackjack/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-blackjack/pull/433)|[PR 2](https://github.com/woowacourse/java-blackjack/pull/580)|
 |체스 - OOP, DB|`2023-03-14` ~ `2023-03-27`|[java-chess](https://github.com/woowacourse/java-chess/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-chess/pull/437)|[PR 2](https://github.com/woowacourse/java-chess/pull/628)|
 
+
+| Project | Period | Repository | PR |
+|:-----:|:-----:|:---:|:---:|
+|레벨 1 글쓰기 미션|`2023-03-02` ~ `2023-03-27`|[우아한테크코스 한 달 생활기](https://github.com/Go-Jaecheol/woowa-writing-5)|[PR](https://github.com/woowacourse/woowa-writing-5/pull/141)|
+
 ---
 
 ## 🎯 Precourse
