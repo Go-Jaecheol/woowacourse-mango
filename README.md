@@ -1,5 +1,13 @@
 # 🥭 우아한테크코스 5기 기록
 
+## 🌳 Level 2
+
+| Project | Period | Repository | 1단계 PR | 2단계 PR | 회고 |
+|:-----:|:-----:|:---:|:---:|:---:|:---:|
+|웹 자동차 경주|`2023-04-11` ~ `2023-04-24`|[jwp-racingcar](https://github.com/woowacourse/jwp-racingcar/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/jwp-racingcar/pull/51)||
+
+---
+
 ## 🌱 Level 1
 
 | Project | Period | Repository | 1단계 PR | 2단계 PR | 회고 |
