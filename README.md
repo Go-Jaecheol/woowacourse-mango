@@ -13,14 +13,21 @@
 | Project | Period | Repository | 1단계 PR | 2단계 PR | 회고 |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|
 |자동차 경주 - 단위 테스트|`2023-02-07` ~ `2023-02-13`|[java-racingcar](https://github.com/woowacourse/java-racingcar/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-racingcar/pull/520)|[PR 2](https://github.com/woowacourse/java-racingcar/pull/634) | [회고](https://jfelog.tistory.com/21)  
-|사다리 타기 - TDD|`2023-02-14` ~ `2023-02-27`|[java-ladder](https://github.com/woowacourse/java-ladder/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-ladder/pull/129)|[PR 2](https://github.com/woowacourse/java-ladder/pull/246)
+|사다리 타기 - TDD|`2023-02-14` ~ `2023-02-27`|[java-ladder](https://github.com/woowacourse/java-ladder/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-ladder/pull/129)|[PR 2](https://github.com/woowacourse/java-ladder/pull/246) | [회고](https://jfelog.tistory.com/22)
 |블랙잭 - Clean Code|`2023-02-28` ~ `2023-03-13`|[java-blackjack](https://github.com/woowacourse/java-blackjack/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-blackjack/pull/433)|[PR 2](https://github.com/woowacourse/java-blackjack/pull/580)|
 |체스 - OOP, DB|`2023-03-14` ~ `2023-03-27`|[java-chess](https://github.com/woowacourse/java-chess/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/java-chess/pull/437)|[PR 2](https://github.com/woowacourse/java-chess/pull/628)|
 
+### 글쓰기 미션
 
-| Project | Period | Repository | PR |
+| Project | Period | Repository | PR | Blog |
+|:-----:|:-----:|:---:|:---:|:---:|
+|레벨 1 글쓰기 미션|`2023-03-02` ~ `2023-03-27`|[우아한테크코스 한 달 생활기](https://github.com/Go-Jaecheol/woowa-writing-5)|[PR](https://github.com/woowacourse/woowa-writing-5/pull/141)| [Tistory](https://jfelog.tistory.com/24)
+
+### 학습 로그
+
+| Mission | Date | Prolog | Blog |
 |:-----:|:-----:|:---:|:---:|
-|레벨 1 글쓰기 미션|`2023-03-02` ~ `2023-03-27`|[우아한테크코스 한 달 생활기](https://github.com/Go-Jaecheol/woowa-writing-5)|[PR](https://github.com/woowacourse/woowa-writing-5/pull/141)|
+|[BE] 레벨1 - 사다리|`2023-02-27`|[요구사항과 확장성은 어디까지 고려해야 할까](https://prolog.techcourse.co.kr/studylogs/2738) | [Tistory](https://jfelog.tistory.com/23)
 
 ---
 
