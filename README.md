@@ -2,13 +2,23 @@
 
 ## 🌳 Level 2
 
+### 미션
+
 | Project | Period | Repository | 1단계 PR | 2단계 PR | 회고 |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|
 |웹 자동차 경주|`2023-04-11` ~ `2023-04-24`|[jwp-racingcar](https://github.com/woowacourse/jwp-racingcar/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/jwp-racingcar/pull/51)||
 
+### 근로 - 캠퍼스 플랫폼(Kotlin)
+
+| Project | Period | Repository | 1단계 PR | 2단계 PR | 회고 |
+|:-----:|:-----:|:---:|:---:|:---:|:---:|
+|자동차 경주|`2023-04-17` ~ `2023-05-01`|[kotlin-racingcar](https://github.com/woowacourse/kotlin-racingcar)|[PR 1](https://github.com/woowacourse/kotlin-racingcar/pull/84)||
+
 ---
 
 ## 🌱 Level 1
+
+### 미션
 
 | Project | Period | Repository | 1단계 PR | 2단계 PR | 회고 |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|
