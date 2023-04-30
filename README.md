@@ -7,6 +7,7 @@
 | Project | Period | Repository | 1단계 PR | 2단계 PR | 회고 |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|
 |웹 자동차 경주|`2023-04-11` ~ `2023-04-24`|[jwp-racingcar](https://github.com/woowacourse/jwp-racingcar/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/jwp-racingcar/pull/51)|[PR 2](https://github.com/woowacourse/jwp-racingcar/pull/201)|
+|장바구니|`2023-04-25` ~ `2023-05-08`|[jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/jwp-shopping-cart/pull/185)||
 
 ### 근로 - 캠퍼스 플랫폼(Kotlin)
 
