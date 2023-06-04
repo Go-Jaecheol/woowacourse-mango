@@ -8,6 +8,7 @@
 |:-----:|:-----:|:---:|:---:|:---:|:---:|
 |웹 자동차 경주|`2023-04-11` ~ `2023-04-24`|[jwp-racingcar](https://github.com/woowacourse/jwp-racingcar/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/jwp-racingcar/pull/51)|[PR 2](https://github.com/woowacourse/jwp-racingcar/pull/201)|
 |장바구니|`2023-04-25` ~ `2023-05-08`|[jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/jwp-shopping-cart/pull/185)|[PR 2](https://github.com/woowacourse/jwp-shopping-cart/pull/341)|
+|지하철|`2023-05-09` ~ `2023-05-22`|[jwp-subway-path](https://github.com/woowacourse/jwp-subway-path/tree/go-jaecheol)|[PR 1](https://github.com/woowacourse/jwp-subway-path/pull/82)|[PR 2](https://github.com/woowacourse/jwp-subway-path/pull/190)|
 
 ### 근로 - 캠퍼스 플랫폼(Kotlin)
 
